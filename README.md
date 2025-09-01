@@ -43,7 +43,6 @@
  - 로그인
  <img width="2160" height="1167" alt="Image" src="https://github.com/user-attachments/assets/3eac6cf8-c0f2-40f0-81d4-6824d462f976" />
  <img width="917" height="633" alt="Image" src="https://github.com/user-attachments/assets/72a4d543-39d6-4e09-b2a3-866bfa11359d" />
-![Image](https://github.com/user-attachments/assets/bc838a73-1db2-406d-a2b7-9572780b3270)
 <br>
 - 로그아웃
 <img width="2160" height="1167" alt="Image" src="https://github.com/user-attachments/assets/db60ff95-a237-4239-99ba-a091985328fd" />
