@@ -38,7 +38,13 @@
  ## 🖥️ 3. 구현화면
  - 회원가입
  <img width="2160" height="1167" alt="Image" src="https://github.com/user-attachments/assets/aec4be86-f092-4ae0-b6d4-002d0e58b028" />
+ <img width="917" height="633" alt="Image" src="https://github.com/user-attachments/assets/41770713-3e44-4fd2-ba90-4d1fbb3b6bf5" />
+ https://github.com/user-attachments/assets/9c58c858-afc9-487b-b4f0-b145b4a9422a
  - 로그인
  <img width="2160" height="1167" alt="Image" src="https://github.com/user-attachments/assets/3eac6cf8-c0f2-40f0-81d4-6824d462f976" />
+ <img width="917" height="633" alt="Image" src="https://github.com/user-attachments/assets/72a4d543-39d6-4e09-b2a3-866bfa11359d" />
+ ![Image](https://github.com/user-attachments/assets/427a8810-5a28-49d3-812b-ce296b08bec3)
 - 로그아웃
 <img width="2160" height="1167" alt="Image" src="https://github.com/user-attachments/assets/db60ff95-a237-4239-99ba-a091985328fd" />
+<img width="917" height="633" alt="Image" src="https://github.com/user-attachments/assets/d002b80f-39c0-4aab-b432-6f5105158d81" />
+![Image](https://github.com/user-attachments/assets/45e9f57f-2907-47a1-9c4f-3a8d1d68fffe)
