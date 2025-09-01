@@ -50,15 +50,6 @@
                   >
                   </base-input>
 
-                  <!-- <base-input
-                    alternative
-                    class="mb-3"
-                    placeholder="Nickname"
-                    name="nickname"
-                    :rules="{ required: true }"
-                    v-model="model.nickname"
-                  >
-                  </base-input> -->
 
                   <base-input
                     alternative
@@ -107,8 +98,6 @@ export default {
         username: "", // 사용자가 입력한 이름
         email: "", // 사용자가 입력한 이메일
         password: "", // 사용자가 입력한 비밀번호
-        // nickname: "", // 사용자가 입력한 닉네임
-        role: "MASTER",
       },
     };
   },
@@ -119,9 +108,7 @@ export default {
         .post("http://localhost:8080/api/v1/users/sign-up", {
           username: this.model.username,
           email: this.model.email,
-          password: this.model.password,
-          nickname: this.model.nickname,
-          role: this.model.role,
+          password: this.model.password
         })
         .then((response) => {
           alert("회원가입이 완료됐습니다. 로그인 후 이용해 주세요.");
